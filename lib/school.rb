@@ -7,3 +7,4 @@ class School
   end
 
   def
+end 
